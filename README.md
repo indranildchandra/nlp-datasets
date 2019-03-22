@@ -197,14 +197,6 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Stanford NLP group](http://www-nlp.stanford.edu/links/statnlp.html) (mainly annotated corpora and TreeBanks or actual NLP tools)
 *   [Yahoo! Webscope](http://webscope.sandbox.yahoo.com/) (also includes papers that use the data that is provided)
 
-## Datasets (Arabic)
+## Other Datasets
 
-*   [SaudiNewsNet](https://github.com/ParallelMazen/SaudiNewsNet): 31,030 Arabic newspaper articles alongwith metadata, extracted from various online Saudi newspapers. (2 MB)
-
-## Datasets (German)
-
-*   [German Political Speeches Corpus](http://purl.org/corpus/german-speeches): collection of recent speeches held by top German representatives (25 MB, 11 MTokens)
-
-*   [NEGRA](http://www.coli.uni-saarland.de/projects/sfb378/negra-corpus/negra-corpus.html): A Syntactically Annotated Corpus of German Newspaper Texts. Available for free for all Universities and non-profit organizations. Need to sign and send form to obtain. (on request)
-
-*   [Ten Thousand German News Articles Dataset](https://tblock.github.io/10kGNAD/): 10273 german language news articles categorized into nine classes for topic classification. (26.1 MB)
+*   https://www.figure-eight.com/data-for-everyone/ 
