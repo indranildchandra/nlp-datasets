@@ -1,3 +1,11 @@
+# Datasets
+
+*   Google Dataset Search - https://toolbox.google.com/datasetsearch 
+*   Figure Eight - https://www.figure-eight.com/data-for-everyone/ 
+*   Datasetlist - https://www.datasetlist.com/ 
+*   Fast.ai - https://course.fast.ai/datasets 
+
+
 # nlp-datasets
 Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP). Most stuff here is just raw unstructured text data, if you are looking for annotated corpora or Treebanks refer to the sources at the bottom.
 
@@ -197,7 +205,3 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Stanford NLP group](http://www-nlp.stanford.edu/links/statnlp.html) (mainly annotated corpora and TreeBanks or actual NLP tools)
 *   [Yahoo! Webscope](http://webscope.sandbox.yahoo.com/) (also includes papers that use the data that is provided)
 
-## Other Datasets
-
-*   https://www.figure-eight.com/data-for-everyone/ 
-*   https://www.datasetlist.com/ 
