@@ -1,6 +1,7 @@
 # Open Datasets
 
 *   Google Dataset Search - https://toolbox.google.com/datasetsearch 
+*   Stanford Snap Datasets - http://snap.stanford.edu/data/
 *   Figure Eight - https://www.figure-eight.com/data-for-everyone/ 
 *   Datasetlist - https://www.datasetlist.com/ 
 *   Fast.ai - https://course.fast.ai/datasets 
