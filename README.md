@@ -5,7 +5,7 @@
 *   Figure Eight - https://www.figure-eight.com/data-for-everyone/ 
 *   Datasetlist - https://www.datasetlist.com/ 
 *   Fast.ai - https://course.fast.ai/datasets 
-
+*   Haptik.ai - https://github.com/hellohaptik/haptik_open_datasets
 
 # nlp-datasets
 Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP). Most stuff here is just raw unstructured text data, if you are looking for annotated corpora or Treebanks refer to the sources at the bottom.
